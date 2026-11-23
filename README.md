@@ -1,6 +1,7 @@
 # Note Properties (Nudger)
 
-A Renoise tool for keyboard-centric note manipulation in pattern and phrase editors.
+A Renoise tool for keyboard-centric note manipulation in pattern and phrase editors.  
+With a little LLM magic this should work on renoise 3.5.4, which original didn't.  
 
 ![Demo](nudger.gif)
 
