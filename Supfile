@@ -1,0 +1,13 @@
+
+---
+version: 0.5
+desc: |
+  install plugin into place
+
+commands:
+
+  setup:
+    desc: move script into right place
+    run: |
+      cp -rfv ../io.momo182.Nudger_v2.xrnx $HOME/.config/Renoise/V3.5.4/Scripts/Tools
+

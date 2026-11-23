@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>io.momo182.Nudger_v2</Id>
+  <Version>2.0</Version>
+  <Author>momo ezhikoff</Author>
+  <Name>Note Properties</Name>
+  <Category>Pattern Editor</Category>
+  <Description>Keyboard-centric note manipulation for pattern and phrase editors. Nudge, move, clone, and clear note properties with comprehensive error handling and Renoise 3.5 support.</Description>
+  <Homepage>https://github.com/momo182/io.momo182.Nudger_v2.xrnx</Homepage>
+</RenoiseScriptingTool>
